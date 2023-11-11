@@ -199,7 +199,7 @@ export function SecondaryFeatures() {
           Now is the time to revolutionize your construction projects.
           </h2>
           <p className="mt-2 text-lg text-gray-600">
-          With traditional construction practices, you're bound to encounter material waste and inefficiency. With Cambitas, optimize every aspect of your resources.
+          With traditional construction practices, you&apos;re bound to encounter material waste and inefficiency. With Cambitas, optimize every aspect of your resources.
           </p>
         </div>
         <ul
