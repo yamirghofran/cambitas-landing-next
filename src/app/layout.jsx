@@ -1,6 +1,5 @@
 import { Inter } from 'next/font/google'
 import clsx from 'clsx'
-import OGImage from '@/app/cambitas-og.png'
 
 import '@/styles/tailwind.css'
 
