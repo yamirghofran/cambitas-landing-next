@@ -29,7 +29,7 @@ export default function RootLayout({ children }) {
         />
 
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.yourwebsite.com/page" />
+        <meta property="og:url" content="https://www.cambitascompany.es" />
         <meta property="og:title" content="Cambitas - Construction Managament with Sustainibility in Mind" />
         <meta
           property="og:description"
@@ -37,13 +37,13 @@ export default function RootLayout({ children }) {
         />
         <meta
           property="og:image"
-          content={OGImage}
+          content='/cambitas-og.png'
         />
 
         <meta property="twitter:card" content="summary_large_image" />
         <meta
           property="twitter:url"
-          content="https://www.yourwebsite.com/page"
+          content="https://www.cambitascompany.es"
         />
         <meta property="twitter:title" content="Cambitas - Construction Managament with Sustainibility in Mind" />
         <meta
@@ -52,7 +52,7 @@ export default function RootLayout({ children }) {
         />
         <meta
           property="twitter:image"
-          content={OGImage}
+          content="/cambitas-og.png"
         />
       </head>
       <body className="flex h-full flex-col">
